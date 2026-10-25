@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  nginx:
+  - apiVersion: v2
+    appVersion: mainline-alpine3.24-slim
+    created: "2026-10-25T16:34:48.31839+01:00"
+    description: A Helm chart for deploying nginx to Kubernetes
+    digest: 91bbfb618cabc10c4bedf4f3bd8aa21b2d4b6144e5af64295918b23bd87df12e
+    name: nginx
+    type: application
+    urls:
+    - nginx-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-10-25T16:34:48.31711+01:00"
